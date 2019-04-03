@@ -108,7 +108,7 @@
   
 }
 @media screen and (min-width: 480px) {
-  .column {
+  .col-xs-6 .col-md-6 {
     width: 220px;
     float: left;
     padding: 15px;
