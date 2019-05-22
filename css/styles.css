@@ -117,6 +117,9 @@
 .box-model{
   background-color: lightskyblue;
 }
+table, th, td {
+  border: 1px solid black;
+}
 
 /* .button {
   background-color: #4CAF50;
